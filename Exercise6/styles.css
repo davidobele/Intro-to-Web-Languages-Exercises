@@ -1,0 +1,12 @@
+body {
+    font: Arial;
+    background-color: green;
+}
+
+#main-title {
+    text-align: center;
+}
+
+.content {
+    margin-bottom: 12px;
+}
